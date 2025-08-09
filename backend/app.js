@@ -48,7 +48,7 @@ app.use(cors({
       'http://localhost:3002',
       'http://127.0.0.1:3000',
       'http://127.0.0.1:3002',
-      'https://afriflowpay-frontend.vercel.app'
+     'https://afripayflow-frontend.vercel.app'
     ];
 
     // Allow Vercel preview deployments (*.vercel.app)
